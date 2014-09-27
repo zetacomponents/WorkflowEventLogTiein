@@ -1,4 +1,4 @@
-1.2 - Saturday 20 September 2014
+1.2 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Implement the Cancel Case workflow pattern.
@@ -16,6 +16,7 @@
 - Fixed: Updated copyright dates in NOTICE files.
 - Remove custom test runner.
 - Fix autoloading with composer
+
 
 1.1 - Monday 17 December 2007
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
