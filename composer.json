@@ -42,7 +42,7 @@
     "name": "zetacomponents/workflow-event-log-tiein",
     "type": "library",
     "require": {
-        "zetacomponents/worflow": "~1.4",
+        "zetacomponents/workflow": "~1.4",
         "zetacomponents/event-log": "~1.4"
     },
     "require-dev": {
