@@ -51,6 +51,8 @@
         "zetacomponents/event-log": "~1.4"
     },
     "require-dev": {
-        "zetacomponents/unit-test": "*"
+        "zetacomponents/unit-test": "*",
+        "zetacomponents/workflow-database-tiein": "*",
+        "zetacomponents/database-schema": "*"
     }
 }
